@@ -1,0 +1,22 @@
+[
+    {
+        "usuario": "jose",
+        "password": "qwerty",
+        "nivel": "3"
+    },
+    {
+        "usuario": "maria",
+        "password": "1234",
+        "nivel": "2"
+    },
+    {
+        "usuario": "eva",
+        "password": "2468",
+        "nivel": "1"
+    },
+    {
+        "usuario": "melina",
+        "password": "160979",
+        "nivel": "1"
+    }
+]

@@ -1,0 +1,37 @@
+[
+    {
+        "codigo": 1003,
+        "nombre": "Cablecanal",
+        "descripcion": "1020",
+        "valor": 1005,
+        "cantidad": 500
+    },
+    {
+        "codigo": 1000,
+        "nombre": "Capacitor Ventilador",
+        "descripcion": "1,5 mf",
+        "valor": 5000,
+        "cantidad": 50
+    },
+    {
+        "codigo": 1100,
+        "nombre": "Mutitoma de tensi\u00f3n 10 a",
+        "descripcion": "Con cable 5 tomas",
+        "valor": 15000,
+        "cantidad": 30
+    },
+    {
+        "codigo": 1111,
+        "nombre": "Tapas Ciegas",
+        "descripcion": "10*5",
+        "valor": 100,
+        "cantidad": 200
+    },
+    {
+        "codigo": 1002,
+        "nombre": "Cable 2,5 mm",
+        "descripcion": "Color celeste * metro",
+        "valor": 200,
+        "cantidad": 400
+    }
+]
